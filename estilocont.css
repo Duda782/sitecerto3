@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Courgette', serif;
+    font-style: normal;
+    text-align: center;
+}
+.bg {
+    height: 500px;
+    width: 100%;
+    background-image:url(https://i.pinimg.com/736x/ad/ec/50/adec50b4f1585990dc8e2fa2010c15a5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(183, 85, 248);
+    font-size: 60px;
+    font-weight: 900;
+    text-decoration: wavy;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
